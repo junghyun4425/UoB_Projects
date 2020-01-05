@@ -10,7 +10,7 @@
  * **프로젝트**: 각 팀마다 주제를 선정 후, 클라우드기반의 도커와 쿠버네티스를 활용하여 개발.  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Cloud_Computing)
 ### Image Processing and Computer Vision  
- * **프로젝트**: Hough Transform을 직접 구현. 머신러닝 알고리즘으로 학습 후, Hough Transform 을 변형하여 얼굴을 더 잘 식별할수 있도록 구현.  
+ * **프로젝트**: Hough Transform을 직접 구현. 머신러닝 알고리즘으로 학습 후, Hough Transform 을 변형하여 사물을 더 잘 식별할수 있도록 구현.  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Image_Processing)
 ### Machine Learning  
  * **프로젝트**: 가우시안 프로세스외 비지도 및 지도학습방법을 직접 구현해보고, ising model 구현 및 성능향상을 시도하여 이미지 노이즈필터링 구현.  
@@ -23,14 +23,14 @@
 
 ## Term 2
 ### Applied Data Science  
- * **프로젝트**: 실제 환경 데이터로 알맞은 주제를 택하여 분석 및 주제의 가설에 맞는지 개발을 통해 증명.  
+ * **프로젝트**: 실제 환경 데이터로 알맞은 주제를 택하여 분석 및 주제의 가설에 맞는지 증명.  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Applied_Data_Science)
 ### Artificial Intelligence with Logic Programming  
- * **프로젝트**: Logig Programming Language Prolog 를 활용해 A star 알고리즘을 구현.  
+ * **프로젝트**: Logig Programming Language Prolog 를 활용해 A-star 알고리즘을 구현 및 응용.  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Artificial_Logic_Programming)
 ### Computational Genomics and Bioinformatics  
- * **프로젝트**: 생물의 유전자 정보와 관련한 주제를 선택하여 분석 및 증명.  
+ * **프로젝트**: 생물의 유전자 정보와 관련한 주제를 선택하여 자세히 분석 및 가설 증명.  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Computational_Genomics)
 ### Computational Neuroscience  
- * Hopfield Network를 시작으로 생물의 뉴런 신호를 주기로 표현한 Spike Train을 구현 및 활용.  
+ * 생물의 뉴런 신호를 주기로 표현한 Spike Train을 구현 및 .  
  [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Computational_Neuroscience)
