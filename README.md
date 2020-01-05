@@ -24,9 +24,13 @@
 ## Term 2
 ### Applied Data Science  
  * **프로젝트**: 실제 환경 데이터로 알맞은 주제를 택하여 분석 및 주제의 가설에 맞는지 개발을 통해 증명.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Applied_Data_Science)
 ### Artificial Intelligence with Logic Programming  
  * **프로젝트**: Logig Programming Language Prolog 를 활용해 A star 알고리즘을 구현.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Artificial_Logic_Programming)
 ### Computational Genomics and Bioinformatics  
- * **프로젝트**: 생물의 유전자 정보와 관련한 주제를 선택하여 분석 및 증명.  
+ * **프로젝트**: 생물의 유전자 정보와 관련한 주제를 선택하여 분석 및 증명. 
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Computational_Genomics)
 ### Computational Neuroscience  
  * Hopfield Network를 시작으로 생물의 뉴런 신호를 주기로 표현한 Spike Train을 구현 및 활용.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term2/Computational_Neuroscience)
