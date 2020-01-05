@@ -8,12 +8,16 @@
 ## Term 1
 ### Cloud Computing  
  * **프로젝트**: 각 팀마다 주제를 선정 후, 클라우드기반의 도커와 쿠버네티스를 활용하여 개발.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Cloud_Computing)
 ### Image Processing and Computer Vision  
  * **프로젝트**: Hough Transform을 직접 구현. 머신러닝 알고리즘으로 학습 후, Hough Transform 을 변형하여 얼굴을 더 잘 식별할수 있도록 구현.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Image_Processing)
 ### Machine Learning  
  * **프로젝트**: 가우시안 프로세스외 비지도 및 지도학습방법을 직접 구현해보고, ising model 구현 및 성능향상을 시도하여 이미지 노이즈필터링 구현.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Machine_Learning)
 ### Neural Information Processing  
  * 기본적인 뉴런 전달방식 및 실제 구현방법을 배우고, 이론을 바탕으로 뉴런베이스 머신러닝 개발.  
+ [바로가기](https://github.com/junghyun4425/UoB_Projects/tree/master/term1/Neural_Information_Processing)
 ### Uncertainty  
  * 불확실성 관련된 이론을 필수기초수학과 함께 학습. DS-Theory, Fuzzy set model을 활용하여 수많은 불확실성을 가진 값들을 정형화하여 분석할수 있도록 학습.  
 
